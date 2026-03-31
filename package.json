@@ -18,6 +18,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security",
     "underscore": "^1.13.8"
   }
 }
